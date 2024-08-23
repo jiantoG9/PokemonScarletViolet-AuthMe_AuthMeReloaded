@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <div align="center">
+      <p>
+        <img src="https://img.shields.io/badge/DragonCore-plugin-8A2BE2">
+        <img src="https://img.shields.io/badge/AuthMeReloaded-plugin-orange">
+      </p>
+    </div>
     <h1 align="center">宝可梦朱紫系列-登录[AuthMeReloaded]</h1>
     <h2 align="center">详情</h2>
     <pre align="center" >购买须知: 虚拟商品概不退换</pre>
